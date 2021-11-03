@@ -1,0 +1,78 @@
+{
+  "nodes":[
+		{"name":"Netflix","group":1},
+		{"name":"comedy","group":2},
+		{"name":"Docu-series","group":3},
+    {"name":"Drama","group":4},
+    {"name":"Family Animation","group":5},
+    {"name":"Family Live Action","group":6},
+    {"name":"foreign language","group":7},
+    {"name":"Marvel","group":8},
+    {"name":"Reality","group":9},
+    {"name":"International TV Shows","group":10},
+    {"name":"Horror","group":11},
+    {"name":"Fantasy","group":12},
+    {"name":"TV Sci-Fi","group":13},
+    {"name":"Sports Movies","group":14},
+    {"name":"Documentaries","group":15},
+    {"name":"Drama","group":16},
+    {"name":"comedy","group":17},
+    {"name":"Drama","group":18},
+    {"name":"Family Animation","group":19},
+    {"name":"Family Live Action","group":20},
+    {"name":"foreign language","group":21},
+    {"name":"Marvel","group":22},
+    {"name":"Reality","group":23},
+    {"name":"International TV Shows","group":24},
+    {"name":"Horror","group":25},
+    {"name":"Fantasy","group":26},
+    {"name":"Action & Adventure","group":27},
+		{"name":"comedy","group":28},
+		{"name":"Docu-series","group":29},
+    {"name":"Drama","group":30},
+    {"name":"Family Animation","group":31},
+    {"name":"Romantic Movies","group":32},
+    {"name":"foreign language","group":32}
+	],
+	"links":[
+		{"source":0,"target":1,"weight":2},
+		{"source":0,"target":2,"weight":2},
+    {"source":0,"target":3,"weight":2},
+    {"source":0,"target":4,"weight":2},
+    {"source":0,"target":5,"weight":2},
+    {"source":0,"target":6,"weight":2},
+    {"source":0,"target":7,"weight":2},
+    {"source":0,"target":8,"weight":2},
+    {"source":0,"target":9,"weight":2},
+    {"source":0,"target":10,"weight":2},
+    {"source":0,"target":11,"weight":2},
+    {"source":0,"target":12,"weight":2},
+    {"source":0,"target":13,"weight":2},
+    {"source":0,"target":14,"weight":2},
+    {"source":1,"target":15,"weight":2},
+    {"source":2,"target":17,"weight":2},
+    {"source":3,"target":18,"weight":2},
+    {"source":4,"target":19,"weight":2},
+    {"source":5,"target":20,"weight":2},
+    {"source":6,"target":21,"weight":2},
+    {"source":7,"target":22,"weight":2},
+    {"source":8,"target":23,"weight":2},
+    {"source":9,"target":24,"weight":2},
+    {"source":10,"target":25,"weight":2},
+    {"source":11,"target":26,"weight":2},
+    {"source":12,"target":27,"weight":2},
+    {"source":13,"target":28,"weight":2},
+    {"source":14,"target":29,"weight":2},
+    {"source":15,"target":30,"weight":2},
+    {"source":16,"target":31,"weight":2},
+    {"source":17,"target":32,"weight":2}
+	]
+
+  
+
+
+}
+
+
+
+
